@@ -20,4 +20,5 @@ Kategorisierung:
 Offene Fragen:
 - Wie können Nutzende Kabel schnell und unkompliziert eintragen?
 - Wie bleibt das Inventar aktuell und einfach zu pflegen?
+- Welche Kabel sind dafür geeignet?
 
